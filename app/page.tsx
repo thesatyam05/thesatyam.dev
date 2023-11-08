@@ -35,8 +35,8 @@ export default function Home() {
 					<p
 						className='max-w-lg animate-in text-primary'
 						style={{ '--index': 2 } as React.CSSProperties}>
-						Hi, I&apos;m Satyam, a full stack developer who loves building cool things with
-						code.
+						Hi, I&apos;m Satyam, a full stack developer on a mission to transform ideas into
+						digital reality with clean code and pixel-perfect precision.
 					</p>
 					<ul
 						className='animated-list flex animate-in flex-col gap-2 text-secondary md:flex-row md:gap-6'
